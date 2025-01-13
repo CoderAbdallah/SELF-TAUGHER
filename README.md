@@ -1,2 +1,2 @@
-# SELF-TAUGHER
-SELF-TAUGHER repository
+# SELF-TAUGHT
+SELF-TAUGHT repository
