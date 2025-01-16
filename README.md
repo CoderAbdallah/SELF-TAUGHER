@@ -1,2 +1,0 @@
-# SELF-TAUGHT
-SELF-TAUGHT repository
